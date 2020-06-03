@@ -41,5 +41,3 @@ I've done this project with my awesome teammates:
 • Tresor Luzingamu (tluzing)
 • Rodrigue Yenyi Okoka (oyenyi-)
 • Moses Muamba Nzambi (mmuamba).
-
-#### More about School 42 and UNIT Factory you can find here: https://en.wikipedia.org/wiki/42_(school)
